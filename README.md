@@ -2,4 +2,4 @@ clock
 =====
 
 Clock tick
-Welcome! Clock
+Welcome! Clock U!
